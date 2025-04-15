@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 15-04-2025
 
 ## AIM:
 
@@ -53,10 +53,12 @@
 
 
 ## Output:
+![Screenshot (38)](https://github.com/user-attachments/assets/f32db46c-f34c-47c2-9324-5e2c28489235)
+![image](https://github.com/user-attachments/assets/1f4a9ec2-40ef-48a8-8bb9-68b959e7a57f)
 
 
-### Name:
-### Register Number: 
+### Name:Naresh S
+### Register Number: 212224240101
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
